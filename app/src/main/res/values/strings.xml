@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Hello Weather</string>
+    <string name="wind">WIND</string>
+    <string name="wind_direction">WIND DIRECTION</string>
+    <string name="humidity">HUMIDITY</string>
+    <string name="precipitation">PRECIPITATION</string>
+    <string name="pressure">PRESSURE</string>
+    <string name="visibility">VISIBILITY</string>
+    <string name="forecast">FORECAST</string>
+    <string name="more_info">MORE INFORMATION</string>
+    <string name="update">Update:</string>
+    <string name="helloweather">Hello Weather</string>
+</resources>
